@@ -1,4 +1,4 @@
-? Problem : I want to reset password of my 10 no of linux servers.
+? Problem : I want to reset password of my 100's no of linux servers.                                                                 
   Tradiational solution : Log in to each server manually and the then reste password, but this process is too time consuming.
 
     My solution : Written an bash script for resetting ssh password of Linux servers.
