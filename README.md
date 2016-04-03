@@ -7,7 +7,7 @@
       "server_details", please check server_details file format in same branch. Format must be like 
       "<IP>:<old_password>"
 
-    After executing script successfully it will create ne file "updated_server_details" at same location where 
+    After executing script successfully it will create new file "updated_server_details" at same location where 
     is your main script. You can find password details as "<IP>:<new_password>"
     
     Also in this script I have written code for cron scheduling i.e to schedule this script for each 15 days.
